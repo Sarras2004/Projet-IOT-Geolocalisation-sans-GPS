@@ -43,7 +43,7 @@ Une interface web permet de suivre le déplacement en temps réel sur une carte.
 | :--- | :--- |
 | projetiot.ino | Code source Arduino pour l'ESP32 et le module LoRa. |
 | main.py | Serveur API FastAPI et logique de calcul de position. |
-| map.html | Interface de visualisation cartographique (Leaflet). |
+| map.html | Interface de visualisation cartographique . |
 | wifi_map.db | Base de données SQLite contenant les positions des bornes WiFi. |
-| IOT.pdf | Documentation technique et présentation du projet. |
+| IOT.pdf | Présentation du projet. |
 
